@@ -7,6 +7,8 @@
 - [DataSploit](https://github.com/DataSploit/datasploit): An OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.
 - [OSINT Framework](https://github.com/lockfale/OSINT-Framework):OSINT framework focused on gathering information from free tools or resources.
 - [shodan](https://shodan.io): Shodan is a search engine for Internet-connected devices.
+- [Subdomain Finder](https://subdomainfinder.c99.nl/): Deep scanning subdomain finder
+
 - exiftool
 - dirb
 - nmap
